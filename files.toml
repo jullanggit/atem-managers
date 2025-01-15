@@ -1,4 +1,3 @@
-add = "dots add #:?"
-remove = "dots remove #:?"
-
-single_arg = true
+add = "dots add <item>"
+remove = "dots remove <item>"
+list = "dots list"
