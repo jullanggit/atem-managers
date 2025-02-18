@@ -1,3 +1,4 @@
+# The contents of this repo have been moved to [atem-configs](https://github.com/jullanggit/atem-configs)
 My managers for [atem](https://github.com/jullanggit/atem)
 ## Implemented
 - cargo (using [cargo_install_reconstructor](https://github.com/jullanggit/cargo_install_reconstructor))
